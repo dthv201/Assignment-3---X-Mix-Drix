@@ -1,4 +1,5 @@
 //Gaya Vishna 322887373
+//Lior Oliel 206262222
 import { useState } from 'react'
 import  Board from "./components/Board";
 import WinnerMessage from "./components/WinnerMessage";
